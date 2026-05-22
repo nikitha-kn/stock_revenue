@@ -27,4 +27,4 @@ Add real-time stock data integration
 Implement predictive models (ML)
 Enhance UI/UX of dashboard
 
-![Dashboard Overview](images/newplot.png)
+![Dashboard Overview](newplot.png)
