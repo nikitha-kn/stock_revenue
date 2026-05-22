@@ -26,3 +26,6 @@ Create a visually appealing and user-friendly dashboard
 Add real-time stock data integration
 Implement predictive models (ML)
 Enhance UI/UX of dashboard
+
+
+<img src=""C:\Users\Lenovo\Downloads\newplot.png"" width="600"/>
